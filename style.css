@@ -1,0 +1,9 @@
+body {
+  background-image: url(p.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.buffer {
+  padding: 0em 0 10em 0;
+}
